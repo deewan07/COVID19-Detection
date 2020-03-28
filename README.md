@@ -6,7 +6,7 @@
 > A web app to detect covid-19 from chest X-rays of patients 
 
 
-## Getting started in 10 minutes
+## Getting started
 
 - Clone this repo 
 - Install requirements
@@ -40,7 +40,7 @@ $ docker run -it --rm -p 5000:5000 covid19_app
 
 Open http://localhost:5000 and wait till the webpage is loaded.
 
-## Local Installation
+## Local System Installation
 
 It's easy to install and run it on your computer.
 
@@ -64,13 +64,13 @@ Open http://localhost:5000 and have fun. :smiley:
 
 ------------------
 
-## Future
+## Future work
 
 1) Enrich the dataset with another real cases.
 2) Improve the detection accuracy.
 
 
-## More resources
+## References
 
 [Pretty & simple image classifier app template](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
 
