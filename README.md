@@ -28,7 +28,7 @@ With **[Docker](https://www.docker.com)**, you can quickly build and run the ent
 
 ```shell
 # 1. First, clone the repo
-$ git clone 
+$ git clone https://github.com/chiragsamal/COVID19-Detection.git
 $ cd Covid-19-X-Rays-Detector
 
 # 2. Build Docker image
@@ -46,7 +46,7 @@ It's easy to install and run it on your computer.
 
 ```shell
 # 1. First, clone the repo
-$ git clone 
+$ git clone https://github.com/chiragsamal/COVID19-Detection.git
 $ cd Covid-19-X-Rays-Detector
 
 # 2. Install Python packages
@@ -78,4 +78,6 @@ Open http://localhost:5000 and have fun. :smiley:
 
 [Open database of COVID-19 cases with chest X-ray or CT images](https://github.com/ieee8023/covid-chestxray-dataset)
 
+[Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 
+[Covid-19 X rays](https://github.com/ahmed3991/Covid-19-X-Rays-Detector)
